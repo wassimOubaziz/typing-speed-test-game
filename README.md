@@ -46,14 +46,14 @@ Contributions are welcome! If you have ideas for improvement or want to fix a bu
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Typing Speed Test Game [here](#your-live-demo-link).
+Check out the live demo of the Typing Speed Test Game [here](https://wassimoubaziz.github.io/typing-speed-test-game/).
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 
-Have questions or suggestions? Reach out to [Your Email] or open an issue.
+Have questions or suggestions? Reach out to [Wassimdjaafar5@gmail.com] or open an issue.
 
 Happy typing! 🎉
